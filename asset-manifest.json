@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/HwijungK.github.io/Fav-Classes/static/css/main.b351351b.css",
-    "main.js": "/HwijungK.github.io/Fav-Classes/static/js/main.8c832b51.js",
-    "static/js/453.6ae2b56f.chunk.js": "/HwijungK.github.io/Fav-Classes/static/js/453.6ae2b56f.chunk.js",
-    "static/media/logo.svg": "/HwijungK.github.io/Fav-Classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/HwijungK.github.io/Fav-Classes/index.html",
-    "main.b351351b.css.map": "/HwijungK.github.io/Fav-Classes/static/css/main.b351351b.css.map",
-    "main.8c832b51.js.map": "/HwijungK.github.io/Fav-Classes/static/js/main.8c832b51.js.map",
-    "453.6ae2b56f.chunk.js.map": "/HwijungK.github.io/Fav-Classes/static/js/453.6ae2b56f.chunk.js.map"
+    "main.css": "/Fav-Classes/static/css/main.b351351b.css",
+    "main.js": "/Fav-Classes/static/js/main.fad1f80a.js",
+    "static/js/453.6ae2b56f.chunk.js": "/Fav-Classes/static/js/453.6ae2b56f.chunk.js",
+    "static/media/logo.svg": "/Fav-Classes/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fav-Classes/index.html",
+    "main.b351351b.css.map": "/Fav-Classes/static/css/main.b351351b.css.map",
+    "main.fad1f80a.js.map": "/Fav-Classes/static/js/main.fad1f80a.js.map",
+    "453.6ae2b56f.chunk.js.map": "/Fav-Classes/static/js/453.6ae2b56f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b351351b.css",
-    "static/js/main.8c832b51.js"
+    "static/js/main.fad1f80a.js"
   ]
 }
