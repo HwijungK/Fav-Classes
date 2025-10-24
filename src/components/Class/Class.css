@@ -1,0 +1,17 @@
+.class {
+    text-align: center;
+    padding: 20px;
+    height: 300px;
+    width: 200px;
+    background-color: rgb(235, 137, 104);
+    border-radius: 10%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+button {
+    border-radius: 10%;
+}

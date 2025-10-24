@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(225, 220, 190);
+}
+.class-container {
+    background-color:bisque;
+    padding: 10px;
+    gap: 20px;
+    display: flex;
+    flex-direction: row;
+}
