@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import Class from "../Class/Class"
 import "./Home.css"
+import ClassGraphQL from "../Class/ClassGraphQL";
 
 function Home(props) {
     let [value, setValue] = useState("wahh");
@@ -16,8 +17,6 @@ function Home(props) {
         event.preventDefault();
         if (!favouriteClasses.includes(value)) {
             setClasses(favouriteClasses.concat(value))
-            setValue("")
-            
         }
         console.log(favouriteClasses)
         
@@ -42,9 +41,14 @@ function Home(props) {
                 
                 <button type = "submit">Add Class!</button>
             </form>
-            <div className="class-container">
+            {/* <div className="class-container">
                 {favouriteClasses.map((favClass) => {
                     return <Class name={favClass} key={favClass} fav={favClass} delHandler={handleDelete}></Class>
+                })}
+            </div> */}
+            <div className="class-container">
+                {favouriteClasses.map((favClass) => {
+                    return <ClassGraphQL name={favClass} key={favClass} fav={favClass} delHandler={handleDelete}></ClassGraphQL>
                 })}
             </div>
         </div>

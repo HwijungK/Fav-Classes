@@ -1,9 +1,9 @@
 .class {
-    text-align: center;
+    text-align: left;
     padding: 20px;
     height: 300px;
     width: 200px;
-    background-color: rgb(63, 15, 222);
+    background-color: rgb(182, 172, 216);
     border-radius: 10%;
 
     display: flex;
@@ -14,4 +14,21 @@
 
 button {
     border-radius: 10%;
+}
+
+.title {
+    text-align: right;
+    text-shadow:10px, 10px, 5px, darkslategray;
+}
+
+.courseName {
+    text-shadow: 0.5em;
+    font-weight: 600;
+}
+.dep {
+
+}
+.desc {
+    font-size: .8em;
+    font-weight: 300;
 }
